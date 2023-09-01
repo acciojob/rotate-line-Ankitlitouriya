@@ -9,7 +9,7 @@ body{
 	width:200px;
 	height:2px;
 	background-color:black;
-	transition:0.3s;
+/* 	transition:s; */
 	animation:rotate 3s linear infinite;
 	transform-origin:center;
 	
